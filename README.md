@@ -2,9 +2,10 @@
 
 Frontend desenvolvido com Vite e TypeScript para o projeto .
 comando gbit-framework.
-´´´bash
-npx create-gbit-app studio-editor
-...
+
+```bash
+ npx create-gbit-app@latest "meu-projeto"
+```
 
 ## 🚀 Tecnologias
 
