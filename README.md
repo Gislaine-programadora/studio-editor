@@ -1,6 +1,10 @@
-# y - Frontend
+## studio-editor - Frontend
 
-Frontend desenvolvido com Vite e TypeScript para o projeto y.
+Frontend desenvolvido com Vite e TypeScript para o projeto .
+comando gbit-framework.
+´´´bash
+npx create-gbit-app studio-editor
+...
 
 ## 🚀 Tecnologias
 
